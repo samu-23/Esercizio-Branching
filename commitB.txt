@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Commit B
+=======
+Commit in conflitto con CB
+>>>>>>> feature_x
